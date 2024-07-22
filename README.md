@@ -27,5 +27,5 @@ dotenv: For managing environment variables.
 Contact
 For any inquiries, please contact:
 
-Name: Your Name
-Email: your.email@example.com
+Name: NAVEEN JADAV
+Email: JADAVNAVEEN32145@GMAIL.COM 
